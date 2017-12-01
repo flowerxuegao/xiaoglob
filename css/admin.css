@@ -1,0 +1,6 @@
+.contain{width:100%;margin:0 auto}
+header{width:100%;height:100px;line-height:100px;text-align:center}
+.bodyInfo{width:100%;overflow:hidden}
+.bodyInfo>div{float:left}
+.left{width:20%;height:auto;}
+.right{width:80%;height:auto}

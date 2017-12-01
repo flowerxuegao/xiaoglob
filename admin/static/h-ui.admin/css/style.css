@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* 自己的样式 */
+.menu_dropdown #menu-article:hover,.menu_dropdown #menu-picture:hover,.menu_dropdown #menu-product:hover,.menu_dropdown #menu-comments:hover{background:#fff;}
+a:hover{
+	text-decoration: none
+}
+.Hui-article{top:0;}
